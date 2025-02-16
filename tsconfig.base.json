@@ -4,6 +4,7 @@
 		"module": "ESNext",
 
 		"skipLibCheck": true,
-		"noEmit": true,
-	}
+		"noEmit": true
+	},
+	"exclude": ["node_modules"]
 }

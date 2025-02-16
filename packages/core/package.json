@@ -1,6 +1,6 @@
 {
-	"$schema": "https://json.schemastore.org/package.json",
 	"name": "@molybox/core",
+	"type": "module",
 	"version": "0.0.1",
 	"description": "A Discord API wrapper core for MolyBox",
 	"main": "dist/index.js",
