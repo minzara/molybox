@@ -1,0 +1,22 @@
+{
+	"$schema": "https://json.schemastore.org/package.json",
+	"name": "@molybox/core",
+	"version": "0.0.1",
+	"description": "A Discord API wrapper core for MolyBox",
+	"main": "dist/index.js",
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/minzara/molybox.git"
+	},
+	"keywords": [
+		"discord",
+		"molybox"
+	],
+	"author": "Minzara",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/minzara/molybox/issues"
+	},
+	"homepage": "https://github.com/minzara/molybox#readme"
+}
