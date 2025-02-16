@@ -1,0 +1,8 @@
+# Packages
+node_modules/
+
+# Environment variables
+.env
+
+# Production
+dist/
