@@ -1,23 +1,8 @@
 {
-	"$schema": "https://json.schemastore.org/package.json",
-	"workspaces": [
-		"packages/*"
-	],
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/minzara/molybox.git"
+	"private": true,
+	"scripts": {
+		"format": "prettier . --write"
 	},
-	"keywords": [
-		"discord",
-		"molybox",
-		"framework"
-	],
-	"author": "Minzara",
-	"license": "MIT",
-	"bugs": {
-		"url": "https://github.com/minzara/molybox/issues"
-	},
-	"homepage": "https://github.com/minzara/molybox#readme",
 	"devDependencies": {
 		"prettier": "^3.5.1",
 		"typescript": "^5.7.3"
